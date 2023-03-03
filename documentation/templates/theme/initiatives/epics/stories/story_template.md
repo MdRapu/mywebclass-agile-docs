@@ -1,10 +1,15 @@
-# Intro to Basic Keyboard Shortcuts User Stories
+# Task Title: "Create Slides for 10 Different Keybaord Shortcuts"
 
-**Story 1**:
-As a student, I want to learn basic keyboard shortcuts so that I can impress my friends with my computer skills and feel more confident using technology.
+**User Story:** As a student, I want to be able to use the "Ctrl + C" and "Ctrl + V" shortcuts so that I can quickly copy and paste text in my school assignments, saving me time and reducing errors.
 
-**Story 2**:
-As a teacher, I want to introduce my students to the concept of keyboard shortcuts so that they can explore different ways of using computers and enhance their creativity.
+**Description**: Create a set of presentation slides explaining basic shortcuts, (such as "Ctrl + C" and "Ctrl + V" shortcuts) including their purpose, how to use them, and examples of when they are useful. The slides should be visually appealing and easy to understand for young learners. The acceptance criteria are that the slides are completed and reviewed by the team before being added to the presentation. The task depends on having access to the relevant software and knowledge of basic presentation design.
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+**Effort Estimate**: 3 hours
+
+**Assigned To**: Md Rapu
+
+**Priority**: High
+
+**Status**: Not started
+
+**Notes**: None
