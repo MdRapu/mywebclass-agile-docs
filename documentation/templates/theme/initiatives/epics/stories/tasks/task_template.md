@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+# Task Title: "Create Slides for 10 Different Keybaord Shortcuts"
 
-User Story: [Reference the user story that this task supports]
+**User Story:** As a student, I want to be able to use the "Ctrl + C" and "Ctrl + V" shortcuts so that I can quickly copy and paste text in my school assignments, saving me time and reducing errors.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+**Description**: Create a set of presentation slides explaining basic shortcuts, (such as "Ctrl + C" and "Ctrl + V" shortcuts) including their purpose, how to use them, and examples of when they are useful. The slides should be visually appealing and easy to understand for young learners. The acceptance criteria are that the slides are completed and reviewed by the team before being added to the presentation. The task depends on having access to the relevant software and knowledge of basic presentation design.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+**Effort Estimate**: 3 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+**Assigned To**: Md Rapu
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+**Priority**: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+**Status**: Not started
 
-Notes: [Include]
+**Notes**: None
