@@ -1,8 +1,10 @@
 # Task #1 Title: Develop Lesson Plan for Basic Keyboard Shortcuts
 
-**User Story**: As a curriculum developer, I want to create a lesson plan for teaching basic keyboard shortcuts so that children can learn and apply the shortcuts to various computer programs.
+## User Story:
+As a curriculum developer, I want to create a lesson plan for teaching basic keyboard shortcuts so that children can learn and apply the shortcuts to various computer programs.
 
-**Description**: The curriculum developer will create a lesson plan for teaching basic keyboard shortcuts that includes the following components:
+### Description: 
+The curriculum developer will create a lesson plan for teaching basic keyboard shortcuts that includes the following components:
 
 * An introduction to the importance of keyboard shortcuts and how they can improve efficiency and productivity.
 * A list of the most commonly used basic keyboard shortcuts.
@@ -29,9 +31,11 @@
 
 # Task #2 Title: Develop Interactive Game for Learning Basic Keyboard Shortcuts
 
-**User Story**: As a game developer, I want to create an interactive game to help children memorize basic keyboard shortcuts so that they can apply them to various computer programs.
+## User Story: 
+As a game developer, I want to create an interactive game to help children memorize basic keyboard shortcuts so that they can apply them to various computer programs.
 
-**Description**: The game developer will create an interactive game for children that includes the following components:
+### Description: 
+The game developer will create an interactive game for children that includes the following components:
 
 * An introduction to the importance of keyboard shortcuts and how they can improve efficiency and productivity.
 * A list of the most commonly used basic keyboard shortcuts.
